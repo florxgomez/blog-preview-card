@@ -27,6 +27,7 @@ body {
   width: 384px;
   border-radius: 5%;
   box-shadow: 10px 10px 0px black;
+  border: 1px solid black;
 }
 
 .content {
@@ -65,11 +66,13 @@ h1:hover {
 
 .date {
   font-weight: 400;
+  font-size: 14px;
 }
 
 .description {
   color: var(--grey);
-  font-weight: 300;
+  font-weight: 400;
+  font-size: 16px;
 }
 
 .author {
@@ -81,6 +84,7 @@ h1:hover {
   gap: 15px;
   align-items: center;
   margin-top: 24px;
+  font-size: 14px;
 }
 
 .avatar {
