@@ -23,7 +23,7 @@ Blog preview card with HTML and CSS.
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/florxgomez/blog-preview-card)
-- Live Site URL: [live site URL]()
+- Live Site URL: [live site URL](https://florxgomez.github.io/blog-preview-card/)
 
 ## My process
 
